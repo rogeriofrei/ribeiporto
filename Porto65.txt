@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name=Ribeira do porto
+https://youtu.be/NgbaBFYGZHI.m3u8
